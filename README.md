@@ -1,4 +1,10 @@
+<p>
+  A website that aggregates all jobs from Join. Join is a fantastic platform for finding jobs, but I found it challenging to locate all the available job listings directly. Unlike the platform that mainly showcases company profiles, this application highlights every job posting on Join. It updates daily to provide the most recent and sorted job listings for users
+</p>
+
+
 <p align="center">
+
 <img src="https://user-images.githubusercontent.com/11247099/140462375-7b7ac4db-35b7-453c-8a05-13d8d20282c4.png" width="600"/>
 </p>
 
